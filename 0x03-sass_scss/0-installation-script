@@ -22,15 +22,6 @@ Once the installation was complete, I verified that SASS was installed correctly
 
 npx sass --version
 
-To confirm that it worked, I created a simple style.scss file and compiled it into CSS using the command:
-
-npx sass style.scss style.css
-
-Finally, to make my workflow easier, I used the watch command so that any changes in my .scss file would automatically compile into CSS:
-
-npx sass --watch style.scss:style.css
-
-Through these steps, I successfully set up and tested SASS/SCSS in my project.
 
 
 
